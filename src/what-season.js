@@ -26,7 +26,7 @@ function dateCheck(date) {
 }
 
 function getSeason(date) {
-  throw new NotImplementedError("Not implemented");
+  // throw new NotImplementedError("Not implemented");
   // remove line with error and write your code here
 
   if (!date) {
